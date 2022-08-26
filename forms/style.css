@@ -54,8 +54,7 @@ body {
   pointer-events: none;
   transition: 0.4s;
 }
-.login-box .user-box input:focus ~ label,
-.login-box .user-box input:valid ~ label {
+.login-box .user-box input:focus ~ label, .login-box .user-box input:valid ~ label {
   top: -20px;
   left: 0;
   color: #03e9f4;
@@ -191,4 +190,4 @@ body {
   50%, 100% {
     bottom: 100%;
   }
-}
+}/*# sourceMappingURL=style.css.map */
