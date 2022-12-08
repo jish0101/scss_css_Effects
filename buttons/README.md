@@ -1,21 +1,12 @@
 1. [Button-border-effect](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/button%20hover%20effect%2018) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/button%20hover%20effect%2018/)
-
 2. [Button-border-effect-2](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/button%20hover%20effect) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/button%20hover%20effect/)
-
 3. [Button-border-effect3](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%201) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%201/)
-
 4. [Button-4](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2010) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2010/)
-
 5. [Button-5](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2011) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2011/)
-
 6. [Button-6](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2012) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2012/)
-
 7. [Button-7](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2013) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2013/)
-
 8. [Button-8](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2014) - [perview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2014/)
-
 9. [Button-9](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2015) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2015/)
-
 10. [Button-10](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2017) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2017/)
 11. [Button-11](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2018) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2018/)
 12. [Button-11](https://github.com/jish0101/scss_css_Effects/tree/main/buttons/creative%20button%20hover%20effect%2019) - [preview](https://jish0101.github.io/scss_css_Effects/buttons/creative%20button%20hover%20effect%2019/)
